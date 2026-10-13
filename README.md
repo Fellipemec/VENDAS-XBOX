@@ -48,8 +48,6 @@ O ficheiro é composto por folhas de trabalho organizadas de forma modular:
 
 ![Dashboard Xbox Game Pass](dashboard-xbox.png)
 
-*(Lembre-se de adicionar a captura de ecrã do seu Dashboard na pasta `/images` com o nome correspondente).*
-
 ---
 
 ## 📂 Estrutura do Repositório
